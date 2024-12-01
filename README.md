@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Areeb-code
+- 👋 Hi, I’m @Ar-code
 - 👀 I’m interested in ....JUST CODING
 - 🌱 I’m currently learning .... " C++"; 'ASSEMBLY-8086'
 - 💞️ I’m looking to collaborate on ...
