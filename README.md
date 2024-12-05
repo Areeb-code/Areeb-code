@@ -2,8 +2,8 @@
 - 👀 I’m interested in ....JUST CODING
 - 🌱 I’m currently learning .... " C++"; 'ASSEMBLY-8086'
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ... we.entertain.you2@gmail.com
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...JUST CODING😊😎
 
 <!---
