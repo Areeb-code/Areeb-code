@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ar-code
-- 👀 I’m interested in ....JUST CODING
+- 👀 I’m interested in ....<!---ARTIFICIAL INTELLIGENCE--->
 - 🌱 I’m currently learning .... " C++"; 'ASSEMBLY-8086'
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...C++ DSA RELATED PROJECT
 - 📫 How to reach me ... we.entertain.you2@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...JUST CODING😊😎
