@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ar-code
 - 👀 I’m interested in ....RIGHT KNOW C++ CODING
-- 🌱 I’m currently learning .... " C++"; 'ASSEMBLY-8086'
+- 🌱 I’m currently learning .... " C++";" Python "
 - 💞️ I’m looking to collaborate on ...C++ DSA RELATED PROJECT
 - 📫 How to reach me ... we.entertain.you2@gmail.com
 - 😄 Pronouns: ...he/him
