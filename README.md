@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ar-code
-- 👀 I’m interested in ....RIGHT KNOW C++ CODING
+- 👀 I’m interested in ....AI/ML Models system integration ATLEAST NOW
 - 🌱 I’m currently learning .... " C++";" Python "
-- 💞️ I’m looking to collaborate on ...C++ DSA RELATED PROJECT
+- 💞️ I’m looking to collaborate on ...AI AND ML BASED Systems
 - 📫 How to reach me ... we.entertain.you2@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...JUST CODING😊😎
