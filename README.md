@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Areeb-code&color=blue)
+
 - 👋 Hi, I’m @Ar-code
 - 👀 I’m interested in ....AI/ML Models system integration ATLEAST NOW
 - 🌱 I’m currently learning .... " C++";" Python "
@@ -10,4 +12,3 @@
 Areeb-code/Areeb-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://komarev.com/ghpvc/?username=Areeb-code&color=blue)
